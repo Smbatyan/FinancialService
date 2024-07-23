@@ -30,4 +30,3 @@ Replace `localhost` with the appropriate server address if deploying remotely.
 Supported tickers:
 - EURUSD
 - USDJPY
-- BTCUSD
